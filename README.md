@@ -1,3 +1,5 @@
+ﾟ+*:ꔫ:*﹤
+
 - 👋 Hi, I’m @quesitodecabra
 - Queso de cabra is my favorite chips flavor and I eat them when I code ehegehegeh, hence the github name
 - 💞️ I realy enjoy learning algorithms and data structures, and I am interested in Machine Learning as a career
